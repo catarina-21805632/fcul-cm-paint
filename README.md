@@ -16,6 +16,4 @@ Objetvios conseguidos:
 
 ![image](https://user-images.githubusercontent.com/56196839/135767606-29b6a194-e55a-4be3-ab7e-48f5d2eb1c6c.png)
 
-![image](https://user-images.githubusercontent.com/56196839/135767655-c4d956bf-7bfb-4bed-a73c-e7246c2e19fb.png)
-
 ![image](https://user-images.githubusercontent.com/56196839/135767659-be9577c4-dd96-4b33-879e-a435e6d4635f.png)
